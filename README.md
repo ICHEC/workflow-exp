@@ -138,3 +138,13 @@ The versions may change, so use the filepath for the version that are build in t
 
 Next, you have to do the same exercsie for the remote machine at which the jobs will be run. Normally this is just the login node of the cluster you want to launch the job to.
 With these steps, one is ready to use the covalent. 
+
+See the [slurm example](./slurm-example.ipynb) to try and run. Then adapt for your usage.
+Before running a job via covalent, you should run the covalent server.
+
+```bash
+micromamba activate wf
+covalent start
+```
+
+This server provides a web-ui to monitor the progress and status of your submitted workflows.
