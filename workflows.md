@@ -59,3 +59,5 @@
 | [Dagster](https://github.com/dagster-io/dagster) | Python | Dynamic | DAG | Yes | Medium | Data orchestrator | Machine learning, analytics, ETL | ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster.svg) |
 | [DigDag](https://github.com/treasure-data/digdag) | Java | Static | DAG | Yes | Medium | Workflow scheduler | Complex pipelines of tasks | ![GitHub stars](https://img.shields.io/github/stars/treasure-data/digdag.svg) |
 | [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) | C# | Dynamic | DAG | 
+
+The full list is here: [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines/tree/master)
